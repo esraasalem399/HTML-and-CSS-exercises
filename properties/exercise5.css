@@ -1,0 +1,16 @@
+table{
+    display: table;
+    border-spacing: 10px;
+    
+
+    
+}
+tr{
+    border-radius: 10px;
+    border-style: groove;
+}
+td{
+     border-radius: 10px;
+    border-style: groove;
+
+}
