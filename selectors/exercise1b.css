@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(176, 228, 230);
+    display: inline-block;
+
+}
+.heading-one{
+    background-color: white;
+    width: 500px;
+    padding: 10px;
+    border: 2px solid black;
+    box-shadow: 5px 5px 7px black;
+    border-radius: 10px;
+}
+
+.heading-two{
+     background-color: white;
+    width: 500px;
+    padding: 10px;
+    border: 2px dashed red;
+    border-radius: 10px;
+    box-shadow: 5px 5px 7px red;
+
+
+}
+.heading-three{
+     background-color: white;
+    width: 500px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 7px black;
+
+
+}
+.higlight-one{
+    background-color: rgb(239, 141, 65);
+
+}
+.higlight-two{
+    background-color: rgb(252, 252, 98);
+
+
+}

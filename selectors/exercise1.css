@@ -1,0 +1,39 @@
+
+body{
+    background-color: rgb(176, 228, 230);
+    display: inline-block;
+}
+.heading-one{
+    background-color: white;
+    border: 2px solid black ;
+    padding: 10px;
+    width: 500px;
+    border-radius: 10px;
+
+}
+.heading-two{
+    background-color: white;
+    color: red;
+    border: 2px dashed red ;
+    padding: 10px;
+    width: 500px;
+    border-radius: 10px;
+
+}
+.heading-three{
+    background-color: white;
+    padding: 10px;
+    width: 500px;
+    border: 2px solid black ;
+    border-radius: 10px;
+
+
+}
+.higlight-one{
+    background-color: rgb(239, 141, 65);
+
+}
+.higlight-two{
+    background-color: rgb(252, 252, 98);
+
+}

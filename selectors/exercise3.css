@@ -1,0 +1,45 @@
+
+.parent{
+     display: flex;
+    justify-content: flex-start;
+    align-items:flex-start;
+    height: 100vh;
+    margin: 20px;
+    padding: 20px;
+    gap: 10px;
+}
+
+.odd{
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    font-weight: bold;
+    text-align: center; 
+    border: 2px solid black;
+    line-height: 50px;
+
+}
+.even{
+    background-color: blue;
+    width: 50px;
+    height: 50px;
+    font-size: large;
+    text-align: center; 
+    border: 2px solid black;
+    font-weight: bold;
+    line-height: 50px;
+
+
+}
+
+.parent div:nth-child(1) { font-size: 12px; }
+.parent div:nth-child(2) { font-size: 14px; }
+.parent div:nth-child(3) { font-size: 16px; }
+.parent div:nth-child(4) { font-size: 18px; }
+.parent div:nth-child(5) { font-size: 20px; }
+.parent div:nth-child(6) { font-size: 22px; }
+.parent div:nth-child(7) { font-size: 24px;color: white; }
+.parent div:nth-child(8) { font-size: 26px; }
+.parent div:nth-child(9) { font-size: 28px; }
+.parent div:nth-child(10) { font-size: 30px; }
+
