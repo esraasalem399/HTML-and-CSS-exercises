@@ -1,0 +1,23 @@
+.parent
+{
+    display: grid;
+    justify-content: center;   
+
+}
+.Personal{
+    background-color: #ffffcc;
+    text-align: center;
+}
+.Magazines{
+    background-color: #ffffcc;
+    text-align: left;
+}
+.Subscription{
+    background-color: #ffffcc;
+    text-align: center;
+}
+.submit{
+    display: flex;
+    justify-content: center;   
+    align-items: center;
+}
